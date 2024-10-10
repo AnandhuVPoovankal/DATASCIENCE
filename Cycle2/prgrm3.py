@@ -1,0 +1,12 @@
+print(" ANANDHU V POOVANKAL")
+print(" 23mca015")
+import numpy as np
+uninilz_array=np.empty(shape=(2,3))
+print("Uninitialized Array:")
+print(uninilz_array)
+once_array=np.ones(shape=(2,3))
+print("Once in the array:")
+print(once_array)
+zeros_array=np.zeros(shape=(2,3))
+print("zeros in the array:")
+print(zeros_array)
