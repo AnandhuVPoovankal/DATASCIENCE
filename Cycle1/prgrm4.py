@@ -1,3 +1,4 @@
+print("ANANDHU,20MCA015")
 n=int(input("Enter the number:"))
 sum=0
 for i in range(1,n):

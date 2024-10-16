@@ -1,3 +1,4 @@
+print("ANANDHU,20MCA015")
 a=[]
 n=int(input("Enter the size of array:"))
 print("Enter the elements:")

@@ -5,29 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2ea59f51-78a4-4b91-977d-3132ab9edae1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/cycle2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PROGRAM15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm9.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/program11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/program14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/progrm10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/.idea/DataScience.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/.idea/DataScience.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/prgrm1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/prgrm1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/prgrm2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/prgrm2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/prgrm3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/prgrm3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/prgrm4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/prgrm4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/prgrm5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/prgrm5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/prgrm6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/prgrm6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/prgrm7.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/prgrm7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +30,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -55,30 +43,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.PROGRAM15.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prgrm1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prgrm12.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prgrm13.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prgrm16.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prgrm17.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prgrm2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prgrm3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prgrm4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prgrm5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prgrm6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prgrm7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prgrm8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prgrm9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.program11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.program14.executor&quot;: &quot;Run&quot;,
-    &quot;Python.progrm10.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.PROGRAM15.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.prgrm1.executor": "Run",
+    "Python.prgrm12.executor": "Run",
+    "Python.prgrm13.executor": "Run",
+    "Python.prgrm16.executor": "Run",
+    "Python.prgrm17.executor": "Run",
+    "Python.prgrm2.executor": "Run",
+    "Python.prgrm3.executor": "Run",
+    "Python.prgrm4.executor": "Run",
+    "Python.prgrm5.executor": "Run",
+    "Python.prgrm6.executor": "Run",
+    "Python.prgrm7.executor": "Run",
+    "Python.prgrm8.executor": "Run",
+    "Python.prgrm9.executor": "Run",
+    "Python.program11.executor": "Run",
+    "Python.program14.executor": "Run",
+    "Python.progrm10.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/system/PycharmProjects/Cycle2",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="cycle2" />
@@ -106,7 +96,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+        <option value="bundled-python-sdk-98f27166c754-ba05f1cad1b1-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.21829.153" />
       </set>
     </attachedChunks>
   </component>

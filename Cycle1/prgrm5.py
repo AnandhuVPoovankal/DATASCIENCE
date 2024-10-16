@@ -1,3 +1,4 @@
+print("ANANDHU,20MCA015")
 for n in range(1,1001):
     num=n
     number=str(n)

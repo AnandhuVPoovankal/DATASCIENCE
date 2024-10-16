@@ -1,3 +1,4 @@
+
 import matplotlib.pyplot as plt
 day=['Mon','Tues','Wed','Thurs','Fri']
 drinks_sales=[300,450,150,400,650]

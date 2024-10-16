@@ -5,22 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="88a5426b-db97-4591-ab0b-a1ced406db57" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Cycle3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/.idea/DataScience.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/.idea/DataScience.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/prgrm1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/prgrm1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/prgrm2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/prgrm2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/prgrm3.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/prgrm3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/prgrm4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/prgrm4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/prgrm5.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/prgrm5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/prgrm6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/prgrm6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/prgrm7.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/prgrm7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle2/.idea/cycle2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle2/.idea/cycle2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle2/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +34,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -48,6 +47,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.prgrm1.executor&quot;: &quot;Run&quot;,
     &quot;Python.prgrm2.executor&quot;: &quot;Run&quot;,
     &quot;Python.prgrm3.executor&quot;: &quot;Run&quot;,

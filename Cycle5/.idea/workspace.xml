@@ -4,15 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="499d169f-c27b-439a-835d-f890cf6cb25e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../Cycle2/.idea/cycle2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle2/.idea/cycle2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cycle2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle2/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cycle2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle2/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cycle2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cycle3/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle3/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cycle3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cycle3/prgrm1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle3/prgrm1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cycle3/prgrm2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle3/prgrm2.py" afterDir="false" />
+    <list default="true" id="5f5f66b5-60a5-4225-9b94-b02c4c554dfa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Cycle5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prgrm1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prgrm2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prgrm3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prgrm4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prgrm5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/prgrm6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,12 +32,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 7
+  &quot;associatedIndex&quot;: 3
 }</component>
-  <component name="ProjectId" id="2jgDvSsTR345cZVaiZYdRTIOFMI" />
+  <component name="ProjectId" id="2nPpnDtf5NNoyOYkCFsn36Zg4LZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -40,22 +45,19 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
     &quot;Python.prgrm1.executor&quot;: &quot;Run&quot;,
     &quot;Python.prgrm2.executor&quot;: &quot;Run&quot;,
     &quot;Python.prgrm3.executor&quot;: &quot;Run&quot;,
     &quot;Python.prgrm4.executor&quot;: &quot;Run&quot;,
     &quot;Python.prgrm5.executor&quot;: &quot;Run&quot;,
     &quot;Python.prgrm6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.prgrm7.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/system/PycharmProjects/Cycle2&quot;
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
   }
 }</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="DataScience" />
+      <module name="Cycle5" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +89,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="499d169f-c27b-439a-835d-f890cf6cb25e" name="Changes" comment="" />
-      <created>1721800056622</created>
+      <changelist id="5f5f66b5-60a5-4225-9b94-b02c4c554dfa" name="Changes" comment="" />
+      <created>1728884729213</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1721800056622</updated>
+      <updated>1728884729213</updated>
     </task>
     <servers />
   </component>
