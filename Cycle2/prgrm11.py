@@ -1,3 +1,5 @@
+print(" ANANDHU V POOVANKAL")
+print(" 23mca015")
 import numpy as np
 x=np.array([[1,2,3],[4,5,6],[7,8,9]])
 x_cube_mutiply=np.multiply(x,np.multiply(x,x))

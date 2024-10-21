@@ -5,19 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f5f66b5-60a5-4225-9b94-b02c4c554dfa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Cycle5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/prgrm6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle2/prgrm11.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle2/prgrm11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle2/prgrm12.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle2/prgrm12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle2/prgrm13.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle2/prgrm13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle2/prgrm14.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle2/prgrm14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle2/prgrm15.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle2/prgrm15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle2/prgrm16.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle2/prgrm16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle2/prgrm17.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle2/prgrm17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle3/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle4/prgrm1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle4/prgrm1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle4/prgrm2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle4/prgrm2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle4/prgrm3a.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle4/prgrm3a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle4/prgrm3b.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle4/prgrm3b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle4/prgrm4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle4/prgrm4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle4/prgrm5a.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle4/prgrm5a.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle4/prgrm5b.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle4/prgrm5b.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cycle4/prgrm6.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Cycle4/prgrm6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +37,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3

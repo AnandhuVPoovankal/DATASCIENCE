@@ -1,3 +1,5 @@
+print(" ANANDHU V POOVANKAL")
+print(" 23mca015")
 import numpy as np
 import pandas as pd
 student = pd.read_csv('student_scores.csv')

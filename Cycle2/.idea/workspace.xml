@@ -38,8 +38,12 @@
     "Python.PROGRAM15.executor": "Run",
     "Python.main.executor": "Run",
     "Python.prgrm1.executor": "Run",
+    "Python.prgrm10.executor": "Run",
+    "Python.prgrm11.executor": "Run",
     "Python.prgrm12.executor": "Run",
     "Python.prgrm13.executor": "Run",
+    "Python.prgrm14.executor": "Run",
+    "Python.prgrm15.executor": "Run",
     "Python.prgrm16.executor": "Run",
     "Python.prgrm17.executor": "Run",
     "Python.prgrm2.executor": "Run",
@@ -113,6 +117,11 @@
           <url>file://$PROJECT_DIR$/prgrm9.py</url>
           <line>1</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/prgrm14.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

@@ -1,3 +1,5 @@
+print(" ANANDHU V POOVANKAL")
+print(" 23mca015")
 import numpy as np
 def is_symmetric(matrix):
     return(matrix==matrix.T).all()
